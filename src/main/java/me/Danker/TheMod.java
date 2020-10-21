@@ -167,12 +167,14 @@ public class TheMod
 	    	t6Enchants.put("9Power VI", "6Power VI");
 
 		t6Enchants.put("9Growth VI", "6Growth VI");
+	    	t6Enchants.put("9Growth VII", "dGrowth VII");
 		t6Enchants.put("9Feather Falling VI", "bFeather Falling VI");
 	    	t6Enchants.put("9Feather Falling VII", "bFeather Falling VII");
 	    	t6Enchants.put("9Feather Falling VIII", "5Feather Falling VIII");
 	    	t6Enchants.put("9Feather Falling IX", "5Feather Falling IX");
 	    	t6Enchants.put("9Feather Falling X", "6Feather Falling X");
 	   	t6Enchants.put("9Protection VI", "6Protection VI");
+	    	t6Enchants.put("9Protection VII", "dProtection VII");
 	    	t6Enchants.put("9Rejuvenate I", "bRejuvenate I");
 	    	t6Enchants.put("9Rejuvenate II", "bRejuvenate II");
 	    	t6Enchants.put("9Rejuvenate III", "5Rejuvenate III");
@@ -186,13 +188,25 @@ public class TheMod
 		t6Enchants.put("9Efficiency VI", "6Efficiency VI");
 	    	t6Enchants.put("9Replenish I", "5Replenish I");
 	    	t6Enchants.put("9Rainbow I", "5Rainbow I");
+	    
+	    	t6Enchants.put("9Compact I", "bCompact I");
+	    	t6Enchants.put("9Compact II", "bCompact II");
+	    	t6Enchants.put("9Compact III", "bCompact III");
+	    	t6Enchants.put("9Compact IV", "bCompact IV");
+	    	t6Enchants.put("9Compact V", "5Compact V");
+	    	t6Enchants.put("9Compact VI", "5Compact VI");
+	    	t6Enchants.put("9Compact VII", "5Compact VII");
+	    	t6Enchants.put("9Compact VIII", "6Compact VIII");
+	    	t6Enchants.put("9Compact IX", "6Compact IX");
+	    	t6Enchants.put("9Compact X", "dCompact X");
 
 		t6Enchants.put("9Angler VI", "6Angler VI");
 		t6Enchants.put("9Caster VI", "6Caster VI");
 	    	t6Enchants.put("9Expertise I", "bExpertise I");
 	    	t6Enchants.put("9Expertise II", "bExpertise II");
 	    	t6Enchants.put("9Expertise III", "bExpertise III");
-	    	t6Enchants.put("9Expertise IV", "5Expertise IV");
+	    	t6Enchants.put("9Expertise IV", "bExpertise IV");
+	    	t6Enchants.put("9Expertise V", "5Expertise V");
 	    	t6Enchants.put("9Expertise VI", "5Expertise VI");
 	    	t6Enchants.put("9Expertise VII", "5Expertise VII");
 	    	t6Enchants.put("9Expertise VIII", "6Expertise VIII");
@@ -203,7 +217,7 @@ public class TheMod
 		t6Enchants.put("9Lure VI", "6Lure VI");	
 		t6Enchants.put("9Magnet VI", "6Magnet VI");
 		t6Enchants.put("9Spiked Hook VI", "6Spiked Hook VI");
-		
+	    
 		String patternString = "(" + String.join("|", t6Enchants.keySet()) + ")";
 		pattern = Pattern.compile(patternString);
 		
