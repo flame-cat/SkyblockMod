@@ -149,7 +149,6 @@ public class TheMod
 		t6Enchants.put("9Scavenger IV", "6Scavenger IV");
 		t6Enchants.put("9Scavenger V", "dScavenger V");
 		t6Enchants.put("9Sharpness VI", "6Sharpness VI");
-		t6Enchants.put("9Smite VII", "6Smite VII");	
 		t6Enchants.put("9Smite VI", "6Smite VI");
 		t6Enchants.put("9Smite VII", "dSmite VII");
 		t6Enchants.put("9Vampirism VI", "6Vampirism VI");
@@ -160,11 +159,11 @@ public class TheMod
 	    	t6Enchants.put("9Infinite Quiver VIII", "5Infinite Quiver VIII");
 	    	t6Enchants.put("9Infinite Quiver IX", "5Infinite Quiver IX");
 	    	t6Enchants.put("9Infinite Quiver X", "6Infinite Quiver X");
-	    	t6Enchants.put("9Overload ", "bOverload I");
-	    	t6Enchants.put("9Overload ", "bOverload II");
-	    	t6Enchants.put("9Overload ", "5Overload III");
-	    	t6Enchants.put("9Overload ", "5Overload IV");
-	    	t6Enchants.put("9Overload ", "66Overload V");
+	    	t6Enchants.put("9Overload I", "bOverload I");
+	    	t6Enchants.put("9Overload II", "bOverload II");
+	    	t6Enchants.put("9Overload III", "5Overload III");
+	    	t6Enchants.put("9Overload IV", "5Overload IV");
+	    	t6Enchants.put("9Overload V", "66Overload V");
 	    	t6Enchants.put("9Power VI", "6Power VI");
 
 		t6Enchants.put("9Growth VI", "6Growth VI");
@@ -174,6 +173,11 @@ public class TheMod
 	    	t6Enchants.put("9Feather Falling IX", "5Feather Falling IX");
 	    	t6Enchants.put("9Feather Falling X", "6Feather Falling X");
 	   	t6Enchants.put("9Protection VI", "6Protection VI");
+	    	t6Enchants.put("9Rejuvenate I", "bRejuvenate I");
+	    	t6Enchants.put("9Rejuvenate II", "bRejuvenate II");
+	    	t6Enchants.put("9Rejuvenate III", "5Rejuvenate III");
+	    	t6Enchants.put("9Rejuvenate IV", "5Rejuvenate IV");
+	    	t6Enchants.put("9Rejuvenate V", "6Rejuvenate V");
 	    	t6Enchants.put("9True Protection I", "5True Protection I");
 	    	t6Enchants.put("9Sugar Rush I", "bSugar Rush I");
 	    	t6Enchants.put("9Sugar Rush II", "5Sugar Rush II");
